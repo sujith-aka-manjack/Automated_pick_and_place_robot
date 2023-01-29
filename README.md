@@ -5,4 +5,4 @@ TASK 1: To pick an object and place it on the target 2 metres away without any o
 
 TASK 2: Same as TASK 1 but in the presence on an obstacle at the 1 metre point. 2 different paths have been choosen to avoid the obstacle
 
-Video Explanations attached
+Video Explanations, robot pictures, and report attached
